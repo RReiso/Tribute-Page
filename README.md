@@ -1,4 +1,4 @@
-# Freecodecamp Responsive Web Design Project - Tribute Page
+# freeCodeCamp Responsive Web Design Project - Tribute Page
 
 Fulfill the below user stories and get all of the tests to pass. Give it your own personal style.
 
